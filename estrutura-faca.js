@@ -1,21 +1,3 @@
-/*
-Var
-  numero, fatorial, contador: inteiro
-
-Inicio
-
-  escreva ("Digite o numero para calcular a fatorial: ")
-  leia (numero)
-  
-  fatorial :=1
-  
-  para contador de 1 ate numero faca
-      fatorial := fatorial * contador
-  fimpara
-  
-  escreva ("Resultado fatorial de ", numero, " é: ", fatorial)
-  
-*/
 
 
 function acaoBotao() {
