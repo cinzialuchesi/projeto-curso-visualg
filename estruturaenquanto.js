@@ -1,27 +1,3 @@
-/*
- 
- Var
-// Seção de Declarações das variáveis 
-   nome: caractere
-   idade, contador, limite: inteiro
-
-  
-
-   enquanto (contador < limite) faca
-   
-     escreva (" Digite o nome: ")
-     leia (nome)
-     escreva ( nome, " qual sua idade: ")
-     leia (idade)
-     
-     Se (idade > 18) entao
-        escreval( nome, " é maior de idade")
-        senao
-            escreval ( nome, " é menor de idade")
-     fimse
-   contador := contador + 1
-   fimenquanto
-   */
 
 
 function acaoBotao(){
